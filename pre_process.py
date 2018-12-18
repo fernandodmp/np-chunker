@@ -49,6 +49,7 @@ def example_creator(pos_tagged):
 def create_dataset(example_matrix):
     data = pd.DataFrame(data = np.asarray(example_matrix), columns=['POS', 'Tag', 'Anterior-POS', 'Anterior-Tag'])
     data = data[['Anterior-POS', 'Anterior-Tag','POS', 'Tag', ]]
+    data.drop('Anterior-POS', axis = 1, inplace = True)
     data.to_csv(sys.argv[2], encoding='utf-8-sig')
 
 
