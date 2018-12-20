@@ -4,7 +4,7 @@ Stephen\BNP Dougray\INP Scott\ENP é\BVP um\BNP ator\INP britânico\INP nascido\
 Este\BNP asteroide\ENP foi\BVP descoberto\EVP em\BNP o\INP dia\INP 2\INP de\INP fevereiro\INP de\INP 2000\INP por\INP LINEAR\INP em\INP Socorro\ENP
 O\BNP baixista\INP e\INP vocalista\INP principal\INP Phil\INP Lynott\ENP foi\BVP o\BNP principal\INP compositor\INP de\INP o\INP material\INP de\INP o\INP Thin\INP Lizzy\ENP Robertson\BNP contribuiu\BVP com\BNP uma\INP parte\INP substancial\INP de\INP composição\INP de\INP a\INP banda\INP algumas\INP vezes\ENP
 Ela\BNP interpretou\BVP Stephanie\BNP a\INP filha\INP de\INP Onslow\INP e\INP Daisy\ENP
-O\BNP diagrama\INP seguinte\ENP representa\BVP as\BNP localidades\IMP em\INP um\INP raio\INP de\INP 20\INP km\INP ao\INP redor\INP de\INP Anna\ENP
+O\BNP diagrama\INP seguinte\ENP representa\BVP as\BNP localidades\INP em\INP um\INP raio\INP de\INP 20\INP km\INP ao\INP redor\INP de\INP Anna\ENP
 O\BNP laboratório\INP de\INP a\INP empresa\INP de\INP sua\INP família\INP o\INP Laboratório\INP McNeil\ENP foi\BVP vendido\EVP para\BNP a\INP Johnson\INP &\INP Johnson\ENP e\BNP ele\ENP passou\BVP a\IVP trabalhar\EVP para\BNP esta\INP empresa\INP como\INP executivo\INP até\INP 1964\ENP
 Em\BNP esta\INP edição\ENP foram\BVP exibidos\EVP 20\BNP filmes\ENP
 O\BNP Grande\INP Prémio\INP de\INP Literatura\INP Biográfica\ENP é\BVP um\BNP prémio\INP literário\ENP instituído\BVP por\BNP a\INP Associação\INP Portuguesa\INP de\INP Escritores\ENP e\BVP patrocinada\EVP por\BNP a\INP Câmara\INP Municipal\INP de\INP Castelo\INP Branco\ENP
@@ -23,3 +23,27 @@ Limba\BNP conquistou\BVP uma\BNP medalha\INP de\INP bronze\ENP em\BNP a\INP comp
 As\BNP espécies\ENP incluídas\BVP em\BNP este\INP género\ENP são\BVP pequenos\BNP subarbustos\INP espinhosos\INP densamente\INP ramificados\ENP
 Em\BNP 1968\ENP José\BNP Paulo\INP de\INP Jesus\ENP Ivan\BNP Dias\ENP Raimundo\BNP Bronzeado\ENP e\BNP outros\ENP realizaram\BVP várias\BNP promoções\ENP buscando\BVP arrecadar\EVP fundos\BNP para\BNP a\INP compra\INP de\INP o\INP terreno\ENP onde\BVP foi\IVP construída\EVP a\BNP sede\INP social\INP de\INP a\INP Embaixada\ENP
 Em\BNP 1997\ENP a\BNP Embaixada\ENP não\BVP participou\EVP de\BNP o\INP carnaval\ENP e\BNP em\INP 1998\ENP com\BNP a\INP volta\INP à\INP presidência\INP de\INP o\INP Sr\INP João\INP Guapindaia\ENP a\BNP Escola\ENP leva\BVP para\BNP a\INP avenida\ENP o\BNP enredo\INP Clara\INP Pinto\INP de\INP a\INP sapatilha\INP a\INP avenida\ENP
+Abelhas\BNP são\BVP insetos\BNP voadores\ENP conhecidos\BNP por\INP o\INP seu\INP importante\INP papel\INP em\INP a\INP polinização\ENP
+O\BNP representante\INP mais\INP conhecido\ENP é\BVP a\BNP Apis\INP mellifera\ENP oriunda\BNP de\INP o\INP Velho\INP Mundo\ENP
+As\BNP espécies\INP de\INP abelhas\INP nativas\INP de\INP as\INP Américas\INP e\INP Oceania\ENP não\BVP possuem\EVP ferrão\BNP
+As\BNP espécies\INP de\INP abelhas\INP nativas\INP de\INP as\INP Américas\INP e\INP Oceania\ENP são\BVP menos\BNP agressivas\INP de\INP o\INP que\INP as\INP espécies\INP africanas\ENP a\BNP maioria\INP destas\ENP pertence\BVP à\BNP tribo\INP Meliponini\ENP
+As\BNP abelhas\ENP com\BNP ferrão\ENP encontradas\BNP comumente\INP em\INP o\INP Brasil\ENP são\BVP espécies\BNP híbridas\INP de\ENP abelhas\BNP europeias\INP e\INP africanas\ENP criadas\BNP para\INP maior\INP produtividade\INP e\INP resistência\ENP
+As\BNP abelhas\ENP com\BNP ferrão\ENP encontradas\BNP comumente\INP em\INP o\INP Brasil\ENP são\BVP espécies\BNP de\INP o\INP gênero\INP Meliponini\ENP e\BNP a\INP mais\INP conhecida\ENP é\BVP a\BNP jataí\INP Tetragonisca\INP angustula\ENP
+Elas\BNP são\BVP encontrados\BNP em\INP todos\INP os\INP continentes\INP exceto\INP a\INP Antártida\ENP em\BNP todos\INP os\INP habitats\INP de\INP o\INP planeta\INP onde\INP existam\INP plantas\INP de\INP flores\INP polinizadas\INP por\INP insetos\ENP
+Algumas\BNP espécies\INP incluindo\ENP abelhas\BNP abelhões\BNP e\BNP abelhas\INP sem\INP ferrão\ENP vivem\BVP socialmente\IVP em\EVP colônias\BNP
+A\BNP maioria\INP de\INP o\INP pólen\ENP é\BVP usado\BNP como\INP o\INP alimento\INP para\INP as\INP larvas\ENP
+A\BNP polinização\INP de\INP as\INP abelhas\ENP é\BVP importante\BNP tanto\INP ecologicamente\INP como\INP comercialmente\ENP
+O\BNP declínio\INP em\INP abelhas\INP selvagens\ENP aumentou\BVP o\BNP valor\INP de\INP a\INP polinização\INP por\INP colmeias\ENP
+As\BNP abelhas\ENP variam\BVP em\ENP tamanho\BNP
+Vertebrados\BNP predadores\INP de\INP abelhas\ENP incluem\BVP aves\BNP como\BNP os\INP abelharucos\ENP
+A\BNP apicultura\ENP tem\BVP sido\EVP praticada\BNP há\BNP milênios\ENP desde\BNP por\INP o\INP menos\INP os\INP tempos\INP de\INP o\INP Antigo\INP Egito\INP e\INP de\INP a\INP Grécia\INP Antiga\ENP
+As\BNP abelhas\ENP produzem\BVP cera\BNP de\INP abelha\ENP geléia\BNP real\ENP e\BNP própolis\ENP
+As\BNP abelhas\ENP têm\BVP aparecido\BNP Em\BNP a\INP mitologia\ENP e\BNP folclore\ENP através\BNP de\INP todas\INP as\INP fases\ENP de\INP a\INP arte\INP e\INP de\INP a\INP literatura\ENP desde\BNP os\INP tempos\INP antigos\ENP até\BNP os\INP dias\INP atuais\ENP
+A\BNP história\INP evolutiva\INP de\INP os\INP insetos\ENP mostra\BVP que\EVP os\BNP primeiros\INP insetos\ENP aparecem\BVP por\BNP volta\INP de\INP 480\INP milhões\INP de\INP anos\ENP
+Os\BNP mais\INP antigos\INP fósseis\INP de\INP abelhas\ENP foram\BVP encontrados\BNP presos\ENP em\BNP âmbar\ENP
+Estas\BNP abelhas\ENP pertencem\BVP a\BNP espécies\INP e\INP gêneros\INP agora\INP extintos\ENP
+Essa\BNP descoberta\ENP sugere\BVP que\EVP as\BNP primeiras\INP abelhas\INP vegetarianas\ENP surgiram\BVP de\BNP ancestrais\INP de\INP vespas\INP insetívoros\ENP
+As\BNP primeiras\INP flores\ENP foram\BVP polinizadas\BNP por\ENP insetos\BNP como\ENP besouros\BNP
+A\BNP polinização\INP por\INP insetos\ENP foi\BVP bem\BNP estabelecida\ENP antes\BNP de\INP a\INP primeira\INP aparição\INP de\INP as\INP abelhas\ENP
+A\BNP diferença\INP importante\ENP é\BVP que\EVP as\BNP abelhas\ENP são\BVP especializadas\BNP como\INP agentes\INP de\INP polinização\ENP
+As\BNP abelhas\INP também\BVP desenvolveram\EVP estruturas\BNP para\ENP coletar\BNP e\BNP transportar\ENP pólen\BNP
